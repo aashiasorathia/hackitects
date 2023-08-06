@@ -1,4 +1,4 @@
-# Hackitechs
+# Hackitects
 # MaternaSage - Bridging Maternal Healthcare Equity
 
 ## Project Overview
